@@ -1,0 +1,78 @@
+<!-- Header Section -->
+<header>
+    <h1>MONY SOVANNCHOUT</h1>
+    
+    <!-- រូបថតដាក់ទៅខាងស្តាំដៃ (Align Right) -->
+    <img src="photo_2026-09-17_14-48-41.jpg" alt="MONY SOVANNCHOUT Photo" width="140" align="right">
+    
+    <p><strong><font color="green">Information Technology Student / Barista</font></strong></p>
+    
+    <p>
+        House No. E49, Street L11, Borey L Village Residence, Prek Ho, Ta Khmau City, Kandal Province, Cambodia.<br>
+        Tel: (087) 882121<br>
+        Email: <a href="mailto:mony.sovannchout@example.com">mony.sovannchout@example.com</a>
+    </p>
+</header>
+
+<hr>
+
+<main>
+    <!-- Personal Data Section -->
+    <section>
+        <h3><font color="green">Personal Data</font></h3>
+        <p><strong>Nationality:</strong> Cambodian &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Date of Birth:</strong> 25 December 2004</p>
+        <p><strong>Marital Status:</strong> Single &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Place of Birth:</strong> Takeo Province</p>
+        <p><strong>Sex:</strong> Male</p>
+    </section>
+
+    <!-- Skills Section -->
+    <section>
+        <h3><font color="green">Skills</font></h3>
+        <p>Microsoft Word, PowerPoint, Excel, Basic Programming in C, C++, Java, Python, Khmer (Mother-tongue), English (Good)</p>
+    </section>
+
+    <!-- Education Section -->
+    <section>
+        <h3><font color="green">Education</font></h3>
+        <h5><font color="blue">Royal University of Phnom Penh (RUPP) - Bachelor of Information Technology (Year 2)</font></h5>
+        <p>2025 – Present</p>
+        <p>Studying Year 2 Information Technology, focusing on programming, database management, and software development fundamentals.</p>
+    </section>
+
+    <!-- Work Experience Section -->
+    <section>
+        <h3><font color="green">Experience</font></h3>
+        <h5><font color="blue">Coffee Shop - Part-Time Barista</font></h5>
+        <p>2025 – Present</p>
+        <ul>
+            <li>Preparing coffee and beverages</li>
+            <li>Serving customers</li>
+            <li>Handling cash transactions</li>
+            <li>Maintaining cleanliness and hygiene standards</li>
+        </ul>
+        <p><strong>Skills:</strong> Customer Service, Cash Handling, Time Management, Teamwork</p>
+    </section>
+
+    <!-- References Section -->
+    <section>
+        <h3><font color="green">References</font></h3>
+        <p><strong>Ms. NIKA SUN</strong><br>Owner, Coffee Shop, Tel: 088 441 5560</p>
+        <p><strong>Ms. BOTREYNICH SAMNANG</strong><br>Teacher, CAM-ASEAN, Tel: 096 708 9711</p>
+    </section>
+
+    <!-- Across the Internet Section -->
+    <section>
+        <h3><font color="green">Across the Internet</font></h3>
+        <p>Add your LinkedIn, GitHub profile links</p>
+        <ul>
+            <li><a href="#" target="_blank">LinkedIn Profile</a></li>
+            <li><a href="#" target="_blank">GitHub Profile</a></li>
+        </ul>
+    </section>
+</main>
+
+<hr>
+
+<!-- Footer Section -->
+<footer>
+   

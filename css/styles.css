@@ -1,0 +1,15 @@
+/* styles.css */
+body {font-family: Arial, sans-serif; }
+.italic {
+    font-style: italic;
+}
+.bold { font-weight: bold;}
+.underline {
+    text-decoration: underline;
+}
+.blue-text {
+    color: rgb(13, 230, 53);
+}
+.center-align {
+    text-align: center;
+}
